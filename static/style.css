@@ -1,0 +1,37 @@
+.masthead {
+    height: 85vh;
+    background: url(media/bg.jpg);
+    background-size: cover;
+  }
+
+  .ikonas img {
+    object-fit: cover;
+    width: 50%;
+  }
+
+  .bildiites img {
+    object-fit: cover;
+    width: 75%;
+  }
+
+  .masthead-contenti {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: white;
+    text-align: center;
+  }
+
+  .teksts {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+
+  .jumbotron-bg {
+    background-color: #5e5d5d;
+    background-size: cover;
+    background-position: center;
+    
+}
