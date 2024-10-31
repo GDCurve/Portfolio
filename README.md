@@ -1,2 +1,2 @@
 # Portfolio
-School
+Emīls Sangovičs
